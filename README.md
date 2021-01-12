@@ -1,4 +1,4 @@
-## Hi,👋 I'm Rounak </br> 
+## Hi,👋 I'm Rounak
 ### Software Developer and Data Scientist in the making
 
 <!--
