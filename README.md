@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi,👋 I'm Rounak </br> Software Developer and Data Scientist in the making
 
 <!--
 **RounakPython/RounakPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
